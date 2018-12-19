@@ -38,7 +38,7 @@ h2,h3,h4{
 .topnav {
 	
     overflow: hidden;
-    background: url(images/topnav.png) repeat-x top;
+    background: url(Images/topnav.png) repeat-x top;
 }
 
 
@@ -58,7 +58,7 @@ h2,h3,h4{
 .topnav a:hover ,.dropdown:hover ,.dropbtn{
     background-color: #454545;
     color: #e7e7e7;
-	background: url(images/topnavhover.png) repeat-x top;
+	background: url(Images/topnavhover.png) repeat-x top;
 }
 
 
