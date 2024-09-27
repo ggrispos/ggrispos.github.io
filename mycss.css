@@ -1,4 +1,4 @@
-* {
+w* {
     box-sizing: border-box;
 }
 
@@ -33,7 +33,7 @@ h2,h3,h4{
     padding: 27px;
     text-align: right;
     background: #0f0f0f;
-	color: white;
+	color: yellow;
 }
 
 .header h1 {
